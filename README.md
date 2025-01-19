@@ -11,8 +11,8 @@ Representation Topology Divergence: A Method for Comparing Neural Network Repres
 
 ### Installation
 1. Requires numpy, scipy, torch.
-2. Install ripserplusplus:
-```pip install git+https://github.com/simonzhang00/ripser-plusplus.git```
+2. Install ripserplusplus(for this fork):
+```pip install git+https://github.com/lx9days/ripser-plusplus.git```
 3. Install RTD:
 ```pip install git+https://github.com/IlyaTrofimov/RTD.git```
 
